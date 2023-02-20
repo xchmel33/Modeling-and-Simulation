@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3823e821-9923-4450-a5c2-073dcc691616" name="eva">
+        <fileTransfer rootFolder="/homes/eva/xc/xchmel33" accessType="SFTP" host="eva.fit.vutbr.cz" port="22" sshConfigId="399d6693-7a6d-4e4e-8bce-e276ba0754b3" sshConfig="xchmel33@eva.fit.vutbr.cz:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
